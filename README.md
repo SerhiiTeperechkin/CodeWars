@@ -47,7 +47,9 @@ CodeWars
 └─── 5 kuy
 │   │   count_ip_addresses.py
 │   │   first_non_repeating_character.py
+│   │   human_readable_time.py
 │   │   memoized_fibonacci.py
+│   │   moving_zeros_to_the_end.py
 │   │   regex_password_validation.py
 │   └─────────────
 │   
