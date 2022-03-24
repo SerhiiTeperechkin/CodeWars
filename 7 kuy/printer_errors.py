@@ -1,5 +1,5 @@
 def printer_error(s):
-    good = 'abcdefghijklmn'
+    good = 'abcdefghijklm'
     errors = 0
     total_letters = len(s)
     for letter in s:
