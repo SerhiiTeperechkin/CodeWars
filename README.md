@@ -23,7 +23,9 @@ CodeWars
 │   
 └─── 7 kuy
 │   │   complementary_dna.py
+│   │   find_the_next_perfect_square.py
 │   │   isograms.py
+│   │   printer_errors.py
 │   │   regex_validate_pin_code.py
 │   │   sum_of_two_lowest_positive_integers.py
 │   │   vowel_count.py
@@ -31,6 +33,8 @@ CodeWars
 │   
 └─── 6 kuy
 │   │   find_the_odd_int.py
+│   │   find_the_parity_outlier.py
+│   │   find_the_unique_number.py
 │   │   persistent_bugge.py
 │   │   your_order_please.py
 │   └─────────────
