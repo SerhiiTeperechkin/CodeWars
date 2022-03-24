@@ -11,6 +11,7 @@ CodeWars
 │
 └─── 8 kuy
 │   │   even_or_odd.py
+│   │   multiply.py
 │   │   name_on_billboard.py
 │   │   opposite_number.py
 │   │   remove_first_and_last_character.py
