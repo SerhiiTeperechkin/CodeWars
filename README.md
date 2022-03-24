@@ -16,6 +16,7 @@ CodeWars
 │   │   opposite_number.py
 │   │   remove_first_and_last_character.py
 │   │   return_negative.py
+│   │   reversed_strings.py
 │   │   string_repeat.py
 │   │   sum_of _positive.py
 │   │   total_amount_of_points.py
