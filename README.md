@@ -26,33 +26,33 @@ CodeWars
 │   └─────────────
 │   
 └─── 6 kuy
-│   │   task1.py
-│   │   task2.py
+│   │   pass
+│   │   
 │   └─────────────
 │   
 └─── 5 kuy
-│   │   task1.py
-│   │   task2.py
+│   │   pass
+│   │   
 │   └─────────────
 │   
 └─── 4 kuy
-│   │   task1.py
-│   │   task2.py
+│   │   pass
+│   │   
 │   └─────────────
 │   
 └─── 3 kuy
-│   │   task1.py
-│   │   task2.py
+│   │   pass
+│   │   
 │   └─────────────
 │   
 └─── 2 kuy
-│   │   task1.py
-│   │   task2.py
+│   │   pass
+│   │   
 │   └─────────────
 │   
 └─── 1 kuy
-     │   task1.py
-     │   task2.py
+     │   pass
+     │   
      └─────────────
 
 ```
