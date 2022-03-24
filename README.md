@@ -22,13 +22,17 @@ CodeWars
 │   └─────────────
 │   
 └─── 7 kuy
+│   │   complementary_dna.py
 │   │   isograms.py
-│   │ 
+│   │   regex_validate_pin_code.py
+│   │   sum_of_two_lowest_positive_integers.py
+│   │   vowel_count.py
 │   └─────────────
 │   
 └─── 6 kuy
-│   │   pass
-│   │   
+│   │   find_the_odd_int.py
+│   │   persistent_bugge.py
+│   │   your_order_please.py
 │   └─────────────
 │   
 └─── 5 kuy
