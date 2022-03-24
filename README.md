@@ -40,8 +40,8 @@ CodeWars
 │   └─────────────
 │   
 └─── 5 kuy
-│   │   pass
-│   │   
+│   │   count_ip_addresses.py
+│   │   first_non_repeating_character.py
 │   └─────────────
 │   
 └─── 4 kuy
