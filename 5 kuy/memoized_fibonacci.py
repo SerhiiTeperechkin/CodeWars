@@ -1,5 +1,6 @@
+chache = {}
+
 def fibonacci(n):
-    chache = {}
     def fibonacci_memoized(m):
         assert m >= 0
         if m in [0,1]:
