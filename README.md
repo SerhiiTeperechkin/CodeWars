@@ -32,16 +32,23 @@ CodeWars
 │   └─────────────
 │   
 └─── 6 kuy
+│   │   break_camelCase.py
+│   │   camelcase_method.py
+│   │   create_phone_number.py
 │   │   find_the_odd_int.py
 │   │   find_the_parity_outlier.py
 │   │   find_the_unique_number.py
+│   │   multiples_of_3_or_5.py
 │   │   persistent_bugge.py
+│   │   split_strings.py
 │   │   your_order_please.py
 │   └─────────────
 │   
 └─── 5 kuy
 │   │   count_ip_addresses.py
 │   │   first_non_repeating_character.py
+│   │   memoized_fibonacci.py
+│   │   regex_password_validation.py
 │   └─────────────
 │   
 └─── 4 kuy
