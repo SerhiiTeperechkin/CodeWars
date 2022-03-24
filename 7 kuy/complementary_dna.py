@@ -1,4 +1,2 @@
-import string
-
 def DNA_strand(dna):
-    return dna.translate(string.maketrans("ATCG","TAGC"))
+    return dna.translate(str.maketrans("ATCG","TAGC"))
