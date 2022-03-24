@@ -10,13 +10,19 @@ CodeWars
 │   README.md  
 │
 └─── 8 kuy
-│   │   task1.py
-│   │   task2.py
+│   │   even_or_odd.py
+│   │   name_on_billboard.py
+│   │   opposite_number.py
+│   │   remove_first_and_last_character.py
+│   │   return_negative.py
+│   │   string_repeat.py
+│   │   sum_of _positive.py
+│   │   total_amount_of_points.py
 │   └─────────────
 │   
 └─── 7 kuy
-│   │   task1.py
-│   │   task2.py
+│   │   isograms.py
+│   │ 
 │   └─────────────
 │   
 └─── 6 kuy
