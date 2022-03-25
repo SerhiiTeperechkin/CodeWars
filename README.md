@@ -10,12 +10,21 @@ CodeWars
 │   README.md  
 │
 └─── 8 kuy
+│   │   USD_to_CNY.py
+│   │   array_plus_array.py
+│   │   convert_a_number_to_a _string.py
+│   │   convert_boolean_values_to_strings_Yes_or_No.py
 │   │   even_or_odd.py
+│   │   find_maximum_and_minimum_values_of_a_list.py
+│   │   find_the_smallest_integer_in_the_array.py
+│   │   jenny's_secret_message.py
 │   │   multiply.py
 │   │   name_on_billboard.py
 │   │   opposite_number.py
 │   │   remove_first_and_last_character.py
+│   │   remove_string _paces.py
 │   │   return_negative.py
+│   │   returning_strings.py
 │   │   reversed_strings.py
 │   │   string_repeat.py
 │   │   sum_of _positive.py
@@ -52,11 +61,13 @@ CodeWars
 │   │   memoized_fibonacci.py
 │   │   moving_zeros_to_the_end.py
 │   │   regex_password_validation.py
+│   │   valid_parentheses.py
 │   └─────────────
 │   
 └─── 4 kuy
-│   │   pass
-│   │   
+│   │   human_readable_duration_format.py
+│   │   next_bigger_number_with_the_same_digits.py
+│   │   the_observed_pin.py
 │   └─────────────
 │   
 └─── 3 kuy
