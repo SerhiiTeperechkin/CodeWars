@@ -55,12 +55,22 @@ CodeWars
 │   └─────────────
 │   
 └─── 5 kuy
+│   │   Rot13.py
+│   │   base64_encoding.py
 │   │   count_ip_addresses.py
+│   │   extract_the_domain_name_from_a_url.py
 │   │   first_non_repeating_character.py
 │   │   human_readable_time.py
+│   │   int32_to_IPv4.py
+│   │   lazy_repeater.py
+│   │   maximum_subarray_sum.py
 │   │   memoized_fibonacci.py
 │   │   moving_zeros_to_the_end.py
 │   │   regex_password_validation.py
+│   │   rgb_to_hex_conversion.py
+│   │   simple_pig_latin.py
+│   │   string_incrementer.py
+│   │   sum_of_pairs.py
 │   │   valid_parentheses.py
 │   └─────────────
 │   
