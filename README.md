@@ -1,7 +1,7 @@
 <div align="center">
 <h1>My Codewars Progress</h1>
 </div>
-<p align="center">Here im posting my progress and try to return my previous rank (2 kuy)</p>
+<p align="center">Here im posting my progress</p>
 
 [![Profile badge](https://www.codewars.com/users/Serhii%20Teperechkin/badges/large)](https://www.codewars.com/users/Serhii%20Teperechkin)
 
